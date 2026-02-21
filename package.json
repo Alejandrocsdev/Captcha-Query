@@ -1,0 +1,26 @@
+{
+  "name": "captcha-form-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandrocsdev/Captcha-Form-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Alejandrocsdev/Captcha-Form-Automation/issues"
+  },
+  "homepage": "https://github.com/Alejandrocsdev/Captcha-Form-Automation#readme",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "dotenv": "^17.3.1",
+    "tesseract.js": "^7.0.0"
+  }
+}
